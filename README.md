@@ -8,3 +8,14 @@ This is simplistic and modular approach to building small to mid-sized applicati
 You can add your own partials to oneframework, and then just import them via oneframework.scss. You can also remove any partials without breaking the application since the code is kept generic.
 
 The Partial Directory:
+
+- Headers
+- Navigation
+- Responsive Navigation
+- Typography
+- Mixins
+- Variables
+- Reset
+- Print
+
+We left the Responsive Grid out so that it could be interchangable on a per application basis.
